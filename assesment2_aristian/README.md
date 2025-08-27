@@ -8,3 +8,8 @@
 4. Once the bot provide you with the list, ask for detail about the game
    example User : Give me the details about Skyrim (it will run gamedetail_info function)
 
+.env files content : 
+OPENAI_API_KEY
+MISTRAL_API_KEY
+
+
