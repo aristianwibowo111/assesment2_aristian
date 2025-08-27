@@ -1,0 +1,14 @@
+[project]
+name = "assesment2-aristian"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "loguru>=0.7.3",
+    "mistralai>=1.9.9",
+    "openai>=1.101.0",
+    "openai-agents>=0.2.9",
+    "python-dotenv>=1.1.1",
+    "tavily-python>=0.7.11",
+]
