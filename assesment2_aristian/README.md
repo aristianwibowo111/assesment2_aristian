@@ -7,9 +7,11 @@
    example : user : Can you recommend me RPG games ? (it will run game_recommendation function)
 4. Once the bot provide you with the list, ask for detail about the game
    example User : Give me the details about Skyrim (it will run gamedetail_info function)
+5. For the OCR, just type "export" on the chat, it will run ocr.py and it will create markdown file name "ocr_response.md"
 
 .env files content : 
 OPENAI_API_KEY
 MISTRAL_API_KEY
+
 
 
